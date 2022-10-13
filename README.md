@@ -50,18 +50,18 @@
 <h2 align="center">About this Account</h2>
  <p align="center">
   <a href="https://github.com/daoudbilel/" target="blank"><img align="center" 
-     src="https://komarev.com/ghpvc/?username=1999AZZAR&style=for-the-badge&label=PROFILE+VIEWS" height="25"
+     src="https://komarev.com/ghpvc/?username=daoudbilel&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
   <a href="#"><img align="center" 
-     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2F1999AZZAR%2F" height="25"
+     src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https%3A%2F%2F1999azzar.github.io%2Fdaoudbilel%2F" height="25"
      alt="website" /></a>
   </p>
   <p align="center">
   <a href="#"><img align="center"
-     src="https://www.codefactor.io/repository/github/1999azzar/1999azzar/badge/main" height="25"
+     src="https://www.codefactor.io/repository/github/daoudbilel/daoudbilel/badge/main" height="25"
      alt="CodeFactor" /></a>
   <a href="https://github.com/daoudbilel/" target="blank"><img align="center" 
-     src="https://github.com/1999AZZAR/1999AZZAR/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
+     src="https://github.com/daoudbilel/daoudbilel/actions/workflows/pages/pages-build-deployment/badge.svg" height="25"
      alt="page built"/></a>
   </p>
  <p align="center">
